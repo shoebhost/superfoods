@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Super Foods", layout="wide")
 
 img_foods = Image.open("images/long_lasting_bread.png") 
-img_food  = Image.open("images\marinara.jpg")
+img_food  = Image.open("images/marinara.jpg")
 new_image = img_foods.resize ((310,170))
 image = img_food.resize ((340,270)) 
 
