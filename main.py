@@ -43,7 +43,7 @@ with st.container():
   st.header("Subcribe")
   st.write("##")
   contact_form = """
-  <form action="https://formsubmit.co/digitalmarkie9@gmail.com" method="POST">
+  <form action="https://formsubmit.co/311724b541bce2c5ee47a45341602a85" method="POST">
      <input type="hidden" name="_captcha" value='false'>
      <input type="text" name="name" placeholder="Your Name"required>
      <input type="email" name="email" placeholder="Your Email Address" required>
