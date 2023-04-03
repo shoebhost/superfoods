@@ -40,7 +40,7 @@ with st.container():
     st.subheader('[Grab Your Copy!](https://www.digistore24.com/redir/377301/digitalmarkie/)')
 with st.container():
   st.write("---")  
-  st.header("Subcribe")
+  st.header("Subscribe")
   st.write("##")
   contact_form = """
   <form action="https://formsubmit.co/311724b541bce2c5ee47a45341602a85" method="POST">
