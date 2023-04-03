@@ -37,7 +37,7 @@ with st.container():
     with text_column:
         st.write(
             '''Unopened canned tuna lasts for years, with the tuna retaining best quality for 3 to 5 years. You'll also find out how to feed yourself for a whole month using just 100USD at Walmart the wild-growing superfoods that almost nobody knows about, the ins and outs of canning both vegetables and meat safely for 20 years, how to prevent your foods from going rancid, seven deadly canning mistakes to avoid like the plague, how to make yourself a $20 DIY Food Bucket better than anything on the market today and the best 50 foods to dehydrate for your food stockpile. With this knowledge, you can create a [long-lasting food source]( https://www.digistore24.com/redir/377301/digitalmarkie/) for yourself and your family, ensuring that your pantry remains full for years to come.''')
-    st.subheader('[Access Now!](https://www.digistore24.com/redir/377301/digitalmarkie/)')
+    st.subheader('[Grab Your Copy!](https://www.digistore24.com/redir/377301/digitalmarkie/)')
 with st.container():
   st.write("---")  
   st.header("Subcribe")
